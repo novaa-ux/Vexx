@@ -1,0 +1,123 @@
+[
+  {
+    "id": "vex-core-black",
+    "name": "VEX Core Compression Tee",
+    "category": "Compressions",
+    "color": "Black",
+    "price": 590,
+    "compareAt": 690,
+    "discount": 14,
+    "stock": 18,
+    "lowStockAt": 5,
+    "bestSeller": true,
+    "image": "/images/vex-black-front.jpg",
+    "gallery": [
+      "/images/vex-black-front.jpg",
+      "/images/vex-black-angle.jpg"
+    ],
+    "description": "A clean, athletic compression fit built for training and everyday movement.",
+    "sizes": {
+      "S": 3,
+      "M": 6,
+      "L": 6,
+      "XL": 3
+    },
+    "active": true
+  },
+  {
+    "id": "vex-core-burgundy",
+    "name": "VEX Core Compression Tee",
+    "category": "Compressions",
+    "color": "Burgundy",
+    "price": 590,
+    "compareAt": 690,
+    "discount": 14,
+    "stock": 9,
+    "lowStockAt": 5,
+    "bestSeller": false,
+    "image": "/images/vex-burgundy.jpg",
+    "gallery": [
+      "/images/vex-burgundy.jpg"
+    ],
+    "description": "Supportive stretch and a close fit in a deep burgundy finish.",
+    "sizes": {
+      "S": 2,
+      "M": 3,
+      "L": 3,
+      "XL": 1
+    },
+    "active": true
+  },
+  {
+    "id": "vex-core-crimson",
+    "name": "VEX Core Compression Tee",
+    "category": "Compressions",
+    "color": "Crimson",
+    "price": 590,
+    "compareAt": 690,
+    "discount": 14,
+    "stock": 4,
+    "lowStockAt": 5,
+    "bestSeller": false,
+    "image": "/images/vex-red.jpg",
+    "gallery": [
+      "/images/vex-red.jpg"
+    ],
+    "description": "A bold training essential with a streamlined athletic silhouette.",
+    "sizes": {
+      "S": 1,
+      "M": 1,
+      "L": 1,
+      "XL": 1
+    },
+    "active": true
+  },
+  {
+    "id": "vex-core-white",
+    "name": "VEX Core Compression Tee",
+    "category": "Compressions",
+    "color": "White",
+    "price": 590,
+    "compareAt": 690,
+    "discount": 14,
+    "stock": 12,
+    "lowStockAt": 5,
+    "bestSeller": false,
+    "image": "/images/vex-white.jpg",
+    "gallery": [
+      "/images/vex-white.jpg"
+    ],
+    "description": "Minimal, versatile performance wear with a second-skin fit.",
+    "sizes": {
+      "S": 3,
+      "M": 4,
+      "L": 3,
+      "XL": 2
+    },
+    "active": true
+  },
+  {
+    "id": "vex-relaxed-pants",
+    "name": "VEX Relaxed Track Pants",
+    "category": "Bottoms",
+    "color": "Black",
+    "price": 790,
+    "compareAt": 890,
+    "discount": 11,
+    "stock": 7,
+    "lowStockAt": 4,
+    "bestSeller": false,
+    "image": "/images/vex-pants.jpg",
+    "gallery": [
+      "/images/vex-pants.jpg"
+    ],
+    "description": "Relaxed straight-leg track pants designed for comfort before and after training.",
+    "sizes": {
+      "S": 1,
+      "M": 2,
+      "L": 2,
+      "XL": 2
+    },
+    "active": true
+  }
+]
